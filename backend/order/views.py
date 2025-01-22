@@ -9,7 +9,7 @@ from product.models import Product
 class OrderList(generics.ListCreateAPIView):
 
     queryset = Order.objects.all()
-    serializer_class = OrderSerializer
+    serializer_class = OrderSerializer(queryset, many=True)
     #permission_classes = (IsAuthenticated,)
 
     

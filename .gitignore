@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+#backend 
+/backend/venv
 # next.js
 /.next/
 /out/
