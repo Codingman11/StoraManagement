@@ -2,10 +2,12 @@
 
 Storage Management System is a system that allows you to manage your storage. 
 
-## Requirements
-
-- Python 3.10
-- Django 4.2
+# Technologies
+ - Typescript / Next.js
+ - Tailwind CSS
+ - Python
+ - Django
+   
 
 ## The main page
 ![main_page](https://github.com/user-attachments/assets/af0d6e4c-7235-43e3-87d8-b3385995275e)
